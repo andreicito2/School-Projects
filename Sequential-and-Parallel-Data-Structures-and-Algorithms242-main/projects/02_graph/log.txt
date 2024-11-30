@@ -1,0 +1,4 @@
+AddAll is the 1 command completed.
+GetBaconNumber is the 2 command completed.
+GetBaconNumber is the 3 command completed.
+Visualize is the 4 command completed.
