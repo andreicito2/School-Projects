@@ -1,0 +1,9 @@
+Push is the 1 command completed.
+Push is the 2 command completed.
+Print is the 3 command completed.
+Push is the 4 command completed.
+Print is the 5 command completed.
+Invalid cd is the 6 command completed.
+Invalid "/home/project/code/cpp/student242" is the 7 command completed.
+Invalid /bin/sh is the 8 command completed.
+Invalid "/home/project/code/cpp/student242/push.sh" is the 9 command completed.

@@ -1,0 +1,24 @@
+GetLength is the 1 command completed.
+PutItem is the 2 command completed.
+PutItem is the 3 command completed.
+PutItem is the 4 command completed.
+PutItem is the 5 command completed.
+PrintList is the 6 command completed.
+PutItem is the 7 command completed.
+PrintList is the 8 command completed.
+GetItem is the 9 command completed.
+GetItem is the 10 command completed.
+GetItem is the 11 command completed.
+GetItem is the 12 command completed.
+IsFull is the 13 command completed.
+DeleteItem is the 14 command completed.
+IsFull is the 15 command completed.
+DeleteItem is the 16 command completed.
+DeleteItem is the 17 command completed.
+DeleteItem is the 18 command completed.
+PrintList is the 19 command completed.
+MakeEmpty is the 20 command completed.
+PrintList is the 21 command completed.
+Invalid Error is the 22 command completed.
+Quit
+Testing completed.

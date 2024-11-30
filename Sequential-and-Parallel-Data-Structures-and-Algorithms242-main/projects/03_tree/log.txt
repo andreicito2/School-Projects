@@ -1,0 +1,3 @@
+BuildTree is the 1 command completed.
+CountTreeInStyle is the 2 command completed.
+Visualize is the 3 command completed.

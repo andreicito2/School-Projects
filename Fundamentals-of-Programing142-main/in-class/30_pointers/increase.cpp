@@ -1,0 +1,29 @@
+#include <iostream> // for cin and cout
+using namespace std;
+
+// function prototype
+void increase(int x, int &y, int *z);
+
+/*====================================================================
+ * Main program
+ */
+int main() {
+  int a = 1;
+  int b = 2;
+  int c = 3;
+  cout << "Before: a = " << a << "; b = " << b << "; c = " << c << endl;
+
+  // TODO: call increase() with appropriate passing of a, b, and c
+increase(a, b, &c);
+
+  cout << "After: a = " << a << "; b = " << b << "; c = " << c << endl;
+  return 0;
+}
+
+// pass by value, reference, and pointer
+void increase(int x, int &y, int *z) {
+  // TODO: increase by 10 the values referenced by x, y, and z
+  x = x + 10;
+y = y +10;
+*z = *z +10;
+}

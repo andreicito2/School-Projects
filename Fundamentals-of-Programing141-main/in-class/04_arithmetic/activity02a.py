@@ -1,0 +1,7 @@
+print(16 + 3)
+print(16 - 3)
+print(16 * 3)
+print(16 ** 3)
+print(16 / 3)
+print(16 // 3)
+print(float(20 % 3))

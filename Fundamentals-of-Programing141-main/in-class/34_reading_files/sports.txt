@@ -1,0 +1,14 @@
+basketball
+baseball
+football
+volleyball
+tennis
+golf
+soccer
+badmitten
+skiing
+diving
+ice hockey
+biking
+sailing
+skateboarding

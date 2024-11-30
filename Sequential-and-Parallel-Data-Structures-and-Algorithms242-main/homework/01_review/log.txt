@@ -1,0 +1,10 @@
+DrawRectangle is the 1 command completed.
+Visualize is the 2 command completed.
+cd is not a valid command.
+cd is the 3 command completed.
+"/home/project/code/cpp/student242" is not a valid command.
+"/home/project/code/cpp/student242" is the 4 command completed.
+/bin/sh is not a valid command.
+/bin/sh is the 5 command completed.
+"/home/project/code/cpp/student242/push.sh" is not a valid command.
+"/home/project/code/cpp/student242/push.sh" is the 6 command completed.
